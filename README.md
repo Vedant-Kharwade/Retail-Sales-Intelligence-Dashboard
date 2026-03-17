@@ -188,7 +188,7 @@ Built using **Power BI and Excel**, this dashboard highlights trends in **sales,
 - Basic SQL knowledge  
 
 ```bash
-git clone https://github.com/Vedant-Kharwade/retail-sales-dashboard.git
+git https://github.com/Vedant-Kharwade/Retail-Sales-Intelligence-Dashboard
 
 ```
 📬 Contact
