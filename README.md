@@ -9,8 +9,19 @@ Built using **Power BI and Excel**, this dashboard highlights trends in **sales,
 ## 📸 Screenshots
 
 ### 🔹 Overview Dashboard
-![Dashboard Screenshot](<img width="1308" height="730" alt="Screenshot 2026-03-17 192254" src="https://github.com/user-attachments/assets/0bdcd522-e7b5-4edb-bbfe-af76c1a1255d" />
-)
+![Overview Dashboard](https://github.com/user-attachments/assets/0bdcd522-e7b5-4edb-bbfe-af76c1a1255d)
+
+###  🔹 Top & Bottom 5 Analysis
+<img width="1307" height="728" alt="Screenshot 2026-03-17 192311" src="https://github.com/user-attachments/assets/8ccf012c-6141-4dd6-8c25-bc25b88c60c6" />
+
+### 🔹 Comparison Sale/Profit/Quantity
+<img width="1313" height="736" alt="Screenshot 2026-03-17 192327" src="https://github.com/user-attachments/assets/7bf58587-f4e7-43d3-9b58-91442eb3f12c" />
+
+### 🔹 Edit Interaction
+<img width="1310" height="736" alt="Screenshot 2026-03-17 192341" src="https://github.com/user-attachments/assets/50e338e1-39a6-444b-8671-c3c33a0ebf06" />
+
+### 🔹 Table Visual
+<img width="1307" height="734" alt="Screenshot 2026-03-17 192355" src="https://github.com/user-attachments/assets/dfc4a272-3df1-4208-a1df-e66631d9362d" />
 
 ---
 
